@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+
+.gillie {
+    font-family: 'Caveat', cursive;
+    color: black;
+    text-shadow: 0.5px 0.5px 0.5px black;
+    font-size: 2.5rem;
+    padding: 0 80px;
+}
+
+.whatsapp-link span {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 1.2rem;
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    padding: 0 20px;
+    text-shadow: 0.5px 0.5px 0.5px black;
+}
+
+.inicio {
+    background-image: url(./img/petr-sidorov-D3SzBCAeMhQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    border-radius: 20px;
+    padding-top: 90px;
+    width: 400px;
+    height: 600px;
+}
+
+.texto h1 {
+    font-family: 'Caveat', cursive;
+    color: white;
+    padding: 40px 10px;
+    text-shadow: 0.8px 0.8px 0.8px black;
+    font-size: 3.5rem;
+}
+
+.texto p {
+    font-family: 'News Cycle', sans-serif;
+    color: white;
+    font-size: 2rem;
+    padding: 30px 10px;
+    text-shadow: 0.8px 0.8px 1px black;
+}
+
+.sobre h2 {
+    font-family: 'Caveat', cursive;
+    text-align: center;
+    font-size: 2.2rem;
+    padding-top: 40px;
+}
+
+.sobre p {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 1.4rem;
+    padding: 10px;
+}
+
+.fotogillie img {
+    padding-top: 60px;
+    padding-left: 20px;
+    border-radius: 60%;
+}
+
+.gigi {
+    background-color: black;
+    border-radius: 5%;
+}
+
+.duvida h3 {
+    font-family: 'Caveat', cursive;
+    color: white;
+    font-size: 2.2rem;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.tarot {
+    font-family: 'News Cycle', sans-serif;
+    color: white;
+    font-size: 1.4rem;
+    padding: 10px;
+}
+
+.duvi {
+    font-family: 'News Cycle', sans-serif;
+    color: white;
+    font-size: 1.4rem;
+    padding: 10px;
+}
+
+.ondemapa h3 {
+    font-family: 'Caveat', cursive;
+    font-size: 2.2rem;
+    padding: 50px;
+}
+
+.ondemapa p {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 1.4rem;
+    padding: 30px;
+}
+
+.mapa {
+    align-items: center;
+    padding: 50px;
+}
